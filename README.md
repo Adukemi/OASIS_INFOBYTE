@@ -11,14 +11,13 @@ As a Data Analytics Intern at Oasis Infobyte, my goal is to strengthen and refin
 **Description**  
 This project focuses on examining and interpreting retail sales data to reveal patterns, trends, and insights. The analysis includes customer demographics, purchasing habits, product popularity, and time-based buying trends to support the business in making strategic decisions.
 
-Key Findings
+#Key Findings
 - Sales Trends: Noted significant sales peaks and fluctuations throughout various months.
 - Customer Demographics: Studied the age and gender breakdown of customers.
 - Product Popularity: Investigated the most popular product categories by age and gender segments.
 - Time Patterns: Identified peak shopping days and purchasing behavior based on time.
 
-Programming Language and Libraries Used
-Python, Pandas, Matplotlib, Seaborn
+Programming Language and Libraries Used: Python, Pandas, Matplotlib, Seaborn
 
 ## 2: Customer Segmentation Analysis
 
