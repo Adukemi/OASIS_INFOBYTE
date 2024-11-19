@@ -22,3 +22,14 @@ Programming Language and Libraries Used: Python, Pandas, Matplotlib, Seaborn
 ## 2: Customer Segmentation Analysis
 
 **Description**  
+This project focuses on customer segmentation analysis for a company. It aims to uncover distinct customer groups based on their buying patterns and demographic profiles. The insights obtained will enable the business to implement personalized marketing strategies, boost customer satisfaction, and enhance overall business outcomes.
+
+Processes
+- Data Collection
+- Data Exploration and Cleaning
+- Descriptive Statistics
+- Customer Segmentation: using the K-means clustering algorithm
+- Visualization: boxplot, scatterplot, barplot, histogram etc.
+
+## 3: Programming Language
+Python: Pandas, Matplotlib, Seaborn, Scikit-Learn
