@@ -31,5 +31,7 @@ Processes
 - Customer Segmentation: using the K-means clustering algorithm
 - Visualization: boxplot, scatterplot, barplot, histogram etc.
 
-## 3: Programming Language
 Python: Pandas, Matplotlib, Seaborn, Scikit-Learn
+
+## 3: Data Cleaning
+
