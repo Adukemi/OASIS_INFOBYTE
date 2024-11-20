@@ -49,4 +49,12 @@ This project involves refining a dataset by resolving issues such as missing val
 **Description**
 The primary goal is to create a sentiment analysis model that effectively categorizes the sentiment of text data, offering meaningful insights into public opinion, customer feedback, and social media trends.
 
-**Key Insights**
+**Stages**
+- Sentiment Analysis: Text data was cleaned, labeled, and vectorized using TF-IDF to identify emotional tones.
+- Natural Language Processing (NLP): Techniques like tokenization, lemmatization, and advanced embeddings (BERT, Word2Vec) were used to process and understand text.
+- Machine Learning Models: Models like SVM, Naive Bayes, and deep learning architectures were trained and optimized through hyperparameter tuning and cross-validation.
+- Feature Engineering: To improve model accuracy, key features were extracted using TF-IDF, n-Grams, sentiment scores, and embeddings.
+- Data Visualization: Results were presented using confusion matrices, heatmaps, and charts to interpret model performance (accuracy, precision, recall, and F1-scores).
+
+**Conclusion**
+Systematic preprocessing, feature extraction, and advanced modeling improved sentiment classification, with results effectively visualized for actionable insights.
