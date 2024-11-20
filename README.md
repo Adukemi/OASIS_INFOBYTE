@@ -43,3 +43,10 @@ This project involves refining a dataset by resolving issues such as missing val
 - Duplicate Handling: Detected and removed duplicate entries to maintain data quality and uniqueness.
 - Format Standardization: Harmonized the structure of categorical and numeric variables for consistent and accurate analysis.
 - Outlier Management: Identified and handled outliers to minimize their impact on analytical results.
+
+## 4: Sentiment Analysis
+
+**Description**
+The primary goal is to create a sentiment analysis model that effectively categorizes the sentiment of text data, offering meaningful insights into public opinion, customer feedback, and social media trends.
+
+**Key Insights**
