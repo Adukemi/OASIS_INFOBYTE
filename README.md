@@ -6,7 +6,7 @@ As a Data Analytics Intern at Oasis Infobyte, my goal is to strengthen and refin
 
 ### 📁 Projects
 ---
-## 1: Exploratory Data Analysis (EDA) on Retail Sales
+## 1: Exploratory Data Analysis (EDA) on Retail Sales P1L1
 
 **Description**  
 This project focuses on examining and interpreting retail sales data to reveal patterns, trends, and insights. The analysis includes customer demographics, purchasing habits, product popularity, and time-based buying trends to support the business in making strategic decisions.
@@ -19,7 +19,7 @@ This project focuses on examining and interpreting retail sales data to reveal p
 
 Programming Language and Libraries Used: Python, Pandas, Matplotlib, Seaborn
 
-## 2: Customer Segmentation Analysis
+## 2: Customer Segmentation Analysis P2L1
 
 **Description**  
 This project focuses on customer segmentation analysis for a company. It aims to uncover distinct customer groups based on their buying patterns and demographic profiles. The insights obtained will enable the business to implement personalized marketing strategies, boost customer satisfaction, and enhance overall business outcomes.
@@ -33,7 +33,7 @@ This project focuses on customer segmentation analysis for a company. It aims to
 
 Python: Pandas, Matplotlib, Seaborn, Scikit-Learn
 
-## 3: Data Cleaning
+## 3: Data Cleaning P3L1
 
 **Description**
 This project involves refining a dataset by resolving issues such as missing values, duplicates, inconsistent formatting, and outliers. The data cleaning process ensures data integrity by addressing gaps, eliminating redundancies, standardizing formats, and managing anomalies. The objective is to prepare the dataset for reliable analysis and modeling.
@@ -44,7 +44,7 @@ This project involves refining a dataset by resolving issues such as missing val
 - Format Standardization: Harmonized the structure of categorical and numeric variables for consistent and accurate analysis.
 - Outlier Management: Identified and handled outliers to minimize their impact on analytical results.
 
-## 4: Sentiment Analysis
+## 4: Sentiment Analysis P4L1
 
 **Description**
 The primary goal is to create a sentiment analysis model that effectively categorizes the sentiment of text data, offering meaningful insights into public opinion, customer feedback, and social media trends.
@@ -58,3 +58,8 @@ The primary goal is to create a sentiment analysis model that effectively catego
 
 **Conclusion**
 Systematic preprocessing, feature extraction, and advanced modeling improved sentiment classification, with results effectively visualized for actionable insights.
+
+## 5: Predicting House Prices with Linear Regression P1L2
+
+**Description**
+The goal of this project is to develop a predictive model using linear regression to forecast a numerical result based on a dataset containing key features. Linear regression is a core machine learning technique, and this project offers practical experience in constructing, assessing, and interpreting such a predictive model.
