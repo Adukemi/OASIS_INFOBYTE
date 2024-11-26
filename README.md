@@ -75,3 +75,21 @@ This project aims to develop a predictive model using linear regression to forec
 
 **Conclusion**
 This systematic approach allows for the creation of a robust predictive model and the effective evaluation of its performance.
+
+## 6: Wine Quality Prediction P2L2
+
+**Description**
+The objective is to predict wine quality based on its chemical properties, providing a practical application of machine learning within viticulture. The dataset includes various chemical characteristics, such as density and acidity, which are used as features for three different classifier models.
+
+**Process**
+- Data Collection and Preparation
+- Data Analysis and Preprocessing
+- Model Selection and Training
+- Model Evaluation
+- Data Visualization
+- Model Optimization
+
+**Conclusion**
+This approach helps in building a robust wine quality prediction model using machine learning classifiers.
+
+## 7:Fraud Detection P3L2
