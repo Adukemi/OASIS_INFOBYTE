@@ -124,3 +124,15 @@ Organize, classify, and create visual representations of Google Play Store data 
 
 **Conclusion**
 This approach not only enhances data analytics and visualization skills but also delivers actionable insights into app market dynamics, enabling informed decision-making for developers and businesses.
+
+## 9: Autocomplete and Autocorrect Data Analytics  P5L2
+
+**Description**
+Explore the efficiency and accuracy of autocomplete and autocorrect algorithms in natural language processing (NLP) through this data analytics project. The objective is to enhance user experience and text prediction by analyzing large datasets and implementing or optimizing autocomplete and autocorrect functionalities.
+
+**Workflow**
+
+**Conclusion**
+
+
+
