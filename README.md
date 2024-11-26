@@ -92,4 +92,21 @@ The objective is to predict wine quality based on its chemical properties, provi
 **Conclusion**
 This approach helps in building a robust wine quality prediction model using machine learning classifiers.
 
-## 7:Fraud Detection P3L2
+## 7: Fraud Detection P3L2
+
+**Description**
+Fraud detection focuses on identifying and preventing fraudulent activities in financial transactions or systems. By utilizing advanced analytics and machine learning methods, fraud detection systems work to differentiate between genuine and deceptive actions. Essential elements include anomaly detection, pattern recognition, and real-time monitoring.
+
+**Stages**
+- Preprocess transaction data to prepare it for analysis.
+- Applied anomaly detection to identify unusual behavior patterns.
+- Train machine learning models (Logistic Regression, Decision Trees, Neural Networks) for fraud detection.
+- Evaluated the model performance using appropriate metrics (accuracy, precision, recall, etc.).
+- Implemented real-time monitoring systems to detect fraud as it happens.
+- Ensure scalability to handle high transaction volumes efficiently.
+- Deployed and monitored the system in production, continuously improving its accuracy.
+
+**Conclusion**
+This structured approach helps build a robust fraud detection system that can accurately predict and flag fraudulent activities while scaling to handle large datasets in real time.
+
+## 8: Unveiling the Android App Market: Analyzing Google Play Store Data P4L2
