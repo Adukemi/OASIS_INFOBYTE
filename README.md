@@ -57,9 +57,21 @@ The primary goal is to create a sentiment analysis model that effectively catego
 - Data Visualization: Results were presented using confusion matrices, heatmaps, and charts to interpret model performance (accuracy, precision, recall, and F1-scores).
 
 **Conclusion**
-Systematic preprocessing, feature extraction, and advanced modeling improved sentiment classification, with results effectively visualized for actionable insights.
+Systematic preprocessing, feature extraction, and advanced modeling improved sentiment classification, and the results were effectively visualized for actionable insights.
 
 ## 5: Predicting House Prices with Linear Regression P1L2
 
 **Description**
-The goal of this project is to develop a predictive model using linear regression to forecast a numerical result based on a dataset containing key features. Linear regression is a core machine learning technique, and this project offers practical experience in constructing, assessing, and interpreting such a predictive model.
+This project aims to develop a predictive model using linear regression to forecast a numerical result based on a dataset containing key features. Linear regression is a core machine learning technique, and this project offers practical experience in constructing, assessing, and interpreting such a predictive model.
+
+**Workflow:**
+- loaded the dataset.
+- Explore and clean the data (missing values, outliers, etc.).
+- Selected relevant features for the model based on correlation and domain knowledge.
+- Split the data into training and testing sets.
+- Trained the model using linear regression.
+- Evaluate the model using appropriate metrics (MSE, and R²).
+- Visualize the results (actual vs. predicted values, residuals).
+
+**Conclusion**
+This systematic approach allows for the creation of a robust predictive model and the effective evaluation of its performance.
