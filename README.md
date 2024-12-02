@@ -100,7 +100,7 @@ Fraud detection focuses on identifying and preventing fraudulent activities in f
 **Stages**
 - Preprocess transaction data to prepare it for analysis.
 - Applied anomaly detection to identify unusual behavior patterns.
-- Train machine learning models (Logistic Regression, Decision Trees, Neural Networks) for fraud detection.
+- Train machine learning models (Logistic Regression, Random Forest, XGBoost) for fraud detection.
 - Evaluated the model performance using appropriate metrics (accuracy, precision, recall, etc.).
 - Implemented real-time monitoring systems to detect fraud as it happens.
 - Ensure scalability to handle high transaction volumes efficiently.
